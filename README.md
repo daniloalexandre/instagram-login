@@ -1,3 +1,3 @@
 # instagram-login
 
-studies in HTML e CSS
+Instagram Login static page implementation (Digital Innovation One course)
